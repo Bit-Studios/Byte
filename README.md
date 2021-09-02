@@ -1,2 +1,2 @@
-# RPG
-RTS Programming Game Docs
+# Byte
+Byte docs
